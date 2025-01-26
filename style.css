@@ -28,6 +28,7 @@ body {
 
 #logo {
   height: 40px;
+  mix-blend-mode:color-burn;
 }
 
 .navbar a {
